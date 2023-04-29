@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+Xavi+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/xaviermartíllull/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Xavi's LinkedIn"/></a>
+
+![Xavi's github stats](https://github-readme-stats.vercel.app/api?username=xavimll02&show_icons=true&theme=dracula&hide=contribs&count_private=true)
+
+![visitors](https://pageview.vercel.app/?github_user=xavimll02)
 
 <!--
 **xavimll02/xavimll02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
